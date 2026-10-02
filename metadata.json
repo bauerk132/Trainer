@@ -1,0 +1,6 @@
+{
+  "name": "GemmaForge: 4-Bit Colab Fine-Tuning Studio",
+  "description": "Interactive Google Colab notebook studio for fine-tuning Gemma with 4-bit QLoRA quantization on the OpenHermes-2.5 dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
